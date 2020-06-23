@@ -5,14 +5,11 @@
 /*here is categories start*/
 @media screen and (max-width:1280px){
 .container{
-    padding:0 5px;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
+      padding:0 5px;
+      box-sizing: border-box;
+     -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
 }
-
-
-
 
 .catbox{
     width:19%;
@@ -27,7 +24,8 @@
     transition: all 0.5s ease-in-out;
 }
 
-.catbox span{width:99%;}
+.catbox span{width:99%;
+}
 .bx-wrapper{
     margin-bottom:0px;
     -webkit-margin-bottom:0px;
@@ -251,7 +249,7 @@
     font-size: 25px;
     margin-top: -15px;
 }
-        }
+        
 
          #user-menu  ul{
             display: inline-block;
